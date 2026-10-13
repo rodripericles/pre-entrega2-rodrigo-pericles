@@ -1,0 +1,16 @@
+body {background-color: #7BD91E;}
+/* body {color fondo}*/
+
+p {color: #7434eb ;}
+/*texto de parrafo (pequeño)*/
+
+h2{color:#ebdb34;}
+/*texto grande*/
+
+/*fuente*/
+body {
+        font-family: 'Tangerine', serif;
+        font-size: 30px; }
+
+ /*banner*/    
+.header {background-image: url(../img/fondo.jpg);}      
